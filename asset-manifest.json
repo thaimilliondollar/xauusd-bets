@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/xauusd-bets/static/css/main.f855e6bc.css",
-    "main.js": "/xauusd-bets/static/js/main.334da612.js",
+    "main.css": "/xauusd-bets/static/css/main.876668c6.css",
+    "main.js": "/xauusd-bets/static/js/main.4618517c.js",
     "static/js/453.dac24b06.chunk.js": "/xauusd-bets/static/js/453.dac24b06.chunk.js",
     "index.html": "/xauusd-bets/index.html",
-    "main.f855e6bc.css.map": "/xauusd-bets/static/css/main.f855e6bc.css.map",
-    "main.334da612.js.map": "/xauusd-bets/static/js/main.334da612.js.map",
+    "main.876668c6.css.map": "/xauusd-bets/static/css/main.876668c6.css.map",
+    "main.4618517c.js.map": "/xauusd-bets/static/js/main.4618517c.js.map",
     "453.dac24b06.chunk.js.map": "/xauusd-bets/static/js/453.dac24b06.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.334da612.js"
+    "static/css/main.876668c6.css",
+    "static/js/main.4618517c.js"
   ]
 }
