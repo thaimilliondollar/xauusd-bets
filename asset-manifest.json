@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xauusd-bets/static/css/main.e6c13ad2.css",
+    "main.js": "/xauusd-bets/static/js/main.824b5690.js",
+    "static/js/453.dac24b06.chunk.js": "/xauusd-bets/static/js/453.dac24b06.chunk.js",
+    "index.html": "/xauusd-bets/index.html",
+    "main.e6c13ad2.css.map": "/xauusd-bets/static/css/main.e6c13ad2.css.map",
+    "main.824b5690.js.map": "/xauusd-bets/static/js/main.824b5690.js.map",
+    "453.dac24b06.chunk.js.map": "/xauusd-bets/static/js/453.dac24b06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.824b5690.js"
+  ]
+}
